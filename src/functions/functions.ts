@@ -3,7 +3,7 @@
 /**
  * Returns 42
  * @customfunction ANSWER
- * @param [Argument] Optional arguments.
+ * @param Argument Repeating argument.
  * @returns String to write.
  * @requiresAddress
  */
